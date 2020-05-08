@@ -1,0 +1,6 @@
+{
+  "pages": [
+    "pages/comment/comment"
+  ],
+  "sitemapLocation": "sitemap.json"
+}
